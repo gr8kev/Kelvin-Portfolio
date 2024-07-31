@@ -6,7 +6,12 @@ function Footer() {
     <footer className="footer--container">
       <div className="footer--link--container">
         <div>
-          <img src="./img/logo.svg" alt="Logoipsum" />
+          <img
+            src="./img/logo.png"
+            alt="Logoipsum "
+            width="100px"
+            height="100px"
+          />
         </div>
         <div className="footer--items">
           <ul>
@@ -81,7 +86,7 @@ function Footer() {
           <ul>
             <li>
               <a
-                href="https://www.facebook.com/"
+                href="https://www.facebook.com/kelvin.obi1?mibextid=LQQJ4d"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -102,7 +107,7 @@ function Footer() {
             </li>
             <li>
               <a
-                href="https://www.instagram.com/"
+                href="https://www.instagram.com/gr8kelv?igsh=MThqNHRmNW42OG82cg%3D%3D&utm_source=qr"
                 className="navbar--content"
                 target="_blank"
                 rel="noreferrer"
@@ -172,7 +177,7 @@ function Footer() {
       </div>
       <hr className="divider" />
       <div className="footer--content--container">
-        <p className="footer--content">Made with 💖 by John</p>
+        <p className="footer--content">Kelvin Obi</p>
         <div className="footer--social--icon">
           <ul>
             <li>
