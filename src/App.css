@@ -785,6 +785,11 @@ input[type="checkbox"] {
   .btn-primary {
     margin-left: 15%;
   }
+  .hero--section--img > img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+  }
 }
 
 /* Responsive Screens Ends*/
