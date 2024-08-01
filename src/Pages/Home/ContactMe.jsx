@@ -59,6 +59,7 @@ export default function ContactMe() {
             <option>Front-end</option>
             <option>Back-end</option>
             <option>Ui/Ux</option>
+            <option>Wordpress</option>
           </select>
         </label>
         <label htmlFor="message" className="contact--label">
