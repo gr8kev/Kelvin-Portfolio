@@ -31,21 +31,21 @@
       "src": "./img/placeholder-image.png",
       "title": "Criptonx",
       "description": "Criptonxstudios, designed and built by me",
-      "link": "criptonx.com"
+      "link": "https://criptonx.com"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
       "title": "Advaatise",
       "description": "advaatise front-end and back-end built and deployed by me",
-      "link": "advaatise.com"
+      "link": "https://advaatise.com"
     },
     {
       "id": "3",
       "src": "./img/placeholder-image-2.png",
       "title": "Divinelearninghub",
       "description": "divinelearninghub built and deployed by me",
-      "link": "divinelearninghub.com.ng"
+      "link": "https://divinelearninghub.com.ng"
     }
   ],
   "testimonial": [
