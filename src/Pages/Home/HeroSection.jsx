@@ -14,7 +14,7 @@ export default function HeroSection() {
             and responsive websites that deliver exceptional user experiences.
             With a robust background in both front-end & back-end, I bring a
             holistic approach to building web applications that are not only
-            visually appealing but also functionally robust and optimizedfor
+            visually appealing but also functionally robust and optimized for
             performance. I have a proven track record of working with a variety
             of technologies including HTML, CSS, JavaScript, React, and Node.js
           </p>
